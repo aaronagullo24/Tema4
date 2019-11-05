@@ -1,6 +1,7 @@
 <?php
 class Gato
 {
+    //g
     public $color;
     public $raza;
     public $sexo;
