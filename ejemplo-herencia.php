@@ -21,6 +21,7 @@
             echo $this->nombre . '<br>';
         }
     }
+    //empleado
     class empleado extends persona
     {
         protected $titulo;
